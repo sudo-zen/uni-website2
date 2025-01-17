@@ -1,0 +1,7 @@
+User-agent: googlebot
+Disallow: /shoes/
+
+User-agent: BingBot
+Disallow: /socks/
+
+Sitemap: https://http://18.168.210.151:5173//sitemap.xml 
